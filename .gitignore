@@ -2,3 +2,6 @@ data/
 models/
 venv/
 .vscode/
+output_dir/
+*.mp3
+*.wav
